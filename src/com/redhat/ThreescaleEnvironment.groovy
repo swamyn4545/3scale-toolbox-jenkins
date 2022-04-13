@@ -14,5 +14,6 @@ class ThreescaleEnvironment {
   String publicProductionWildcardDomain
   String privateBasePath
   String publicBasePath
+  String openshift
 }
 
